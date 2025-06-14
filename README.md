@@ -3,7 +3,7 @@
 This project was inspired by a YouTube video from Tech With Tim called "[Python Live Chat Room Tutorial Using Flask & SocketIO](https://www.youtube.com/watch?v=mkXdvs8H7TA)" where Python was solely used to create the Chat Application.\
 It is a Full Stack Application with React as the Frontend and a Python Backend using Flask for the Backend Server and SocketIO from the Real Time Connection.
 
-Repository of the Python Backend for this application: \
+Repository of the Python Backend for this application: https://github.com/Swasbuckler/chat-room-server
 
 ## What have I Achieved and Learnt through this Project
 
@@ -28,4 +28,4 @@ By the end, I was able to develop a working real time chat room application.
 
 The Video below showcases how 2 users would join and make use of the Chat Room.
 
-<video src="" >
+<video src="https://github.com/user-attachments/assets/ff915d34-b00a-4ca6-bca1-a8856b017269" >
